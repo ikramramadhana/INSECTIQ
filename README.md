@@ -104,3 +104,8 @@ Akses di `http://localhost:3000`
 - Pastikan file `.env` **tidak** di-commit ke GitHub (sudah ada di `.gitignore`)
 - Folder `env/` dan `node_modules/` juga sudah di-ignore
 - Jika Gemini error 503, backend tetap mengembalikan hasil prediksi model
+
+---
+
+## Project Preview
+(./project-preview/insectiq.png)
