@@ -110,3 +110,5 @@ Akses di `http://localhost:3000`
 ## Project Preview
 
 ![INSECIQ Preview](./project-preview/insectiq.png)
+![INSECIQ Preview](./project-preview/insectiq1.png)
+![INSECIQ Preview](./project-preview/insectiq2.png)
