@@ -109,4 +109,4 @@ Akses di `http://localhost:3000`
 
 ## Project Preview
 
-![DocuMind Preview](./project-preview/insectiq.png)
+![INSECIQ Preview](./project-preview/insectiq.png)
